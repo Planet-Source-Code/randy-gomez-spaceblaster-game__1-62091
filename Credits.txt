@@ -1,0 +1,17 @@
+Programming, Graphics and Music by R. Gomez
+-
+...with a lot of help from...
+-
+3rd party freeware :
+Anim8or by Steve Glanville (www.anim8or.com)
+Jazz++ MIDI sequencer by Andreas Voss and Per Sigmond (www.jazzware.com)
+Synthfont by Kenneth Rundt (www.synthfont.com)
+-
+Code by others :
+Gamma and Lighting class modules - Christopher Waddell
+DirectInput module - Ryan Smith (http://gpwiki.org)
+Misc. DirectX stuff - Jack Hoxley (directx4VB.com)
+LoadResPicture class module - Steve McMahon (vbAccelerator.com)
+Miscellaneous - planet-source-code contributors
+-
+Many thanks to all of you!
